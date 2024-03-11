@@ -1,0 +1,32 @@
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Address - Calle del Sol, 123
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Address2 - Piso 2, Puerta B
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del District - Barrio de la Rivera
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del CityID - 3
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del PostalCode - 28010
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Phone - 910234567
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del LastUpdate - 2024-03-06 11:28:41
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Address
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Address2
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del District
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del CityID
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del PostalCode
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Phone
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del LastUpdate
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del ID
+2024-03-06 16:28:41	DEBUG	Funcion Load llamada SELECT "id","address","address2","district","city_id","postal_code","phone","last_update" FROM "address" WHERE "id" = :eid
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Address - Avenida del Parque, 456
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Address2 - Torre A, Apartamento 301
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del District - Distrito del Este
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del CityID - 1
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del PostalCode - 41005
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del Phone - 955789012
+2024-03-06 16:28:41	NOTICE	Funcion Set llamada del LastUpdate - 2024-03-06 11:28:41
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Address
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Address2
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del District
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del CityID
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del PostalCode
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del Phone
+2024-03-06 16:28:41	ERROR	Funcion Get llamada del LastUpdate
+2024-03-06 16:28:41	INFO	Funcion Save llamada del ID 15
+2024-03-06 16:28:41	WARNING	Funcion __destruct llamada del ID 15
